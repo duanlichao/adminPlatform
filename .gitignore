@@ -1,0 +1,20 @@
+# Directory
+.idea
+.settings/
+logs/
+target/
+
+# File
+.classpath
+.project
+.metadata
+*.log
+*.iml
+*.html
+.DS_Store
+*/.DS_Store
+allure-results
+surefire-reports
+.factorypath
+.vscode/
+
